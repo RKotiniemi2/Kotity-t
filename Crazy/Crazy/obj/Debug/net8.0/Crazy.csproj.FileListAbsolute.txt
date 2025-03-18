@@ -1,0 +1,14 @@
+C:\Users\kotin\source\repos\Crazy\Crazy\bin\Debug\net8.0\Crazy.exe
+C:\Users\kotin\source\repos\Crazy\Crazy\bin\Debug\net8.0\Crazy.deps.json
+C:\Users\kotin\source\repos\Crazy\Crazy\bin\Debug\net8.0\Crazy.runtimeconfig.json
+C:\Users\kotin\source\repos\Crazy\Crazy\bin\Debug\net8.0\Crazy.dll
+C:\Users\kotin\source\repos\Crazy\Crazy\bin\Debug\net8.0\Crazy.pdb
+C:\Users\kotin\source\repos\Crazy\Crazy\obj\Debug\net8.0\Crazy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotin\source\repos\Crazy\Crazy\obj\Debug\net8.0\Crazy.AssemblyInfoInputs.cache
+C:\Users\kotin\source\repos\Crazy\Crazy\obj\Debug\net8.0\Crazy.AssemblyInfo.cs
+C:\Users\kotin\source\repos\Crazy\Crazy\obj\Debug\net8.0\Crazy.csproj.CoreCompileInputs.cache
+C:\Users\kotin\source\repos\Crazy\Crazy\obj\Debug\net8.0\Crazy.dll
+C:\Users\kotin\source\repos\Crazy\Crazy\obj\Debug\net8.0\refint\Crazy.dll
+C:\Users\kotin\source\repos\Crazy\Crazy\obj\Debug\net8.0\Crazy.pdb
+C:\Users\kotin\source\repos\Crazy\Crazy\obj\Debug\net8.0\Crazy.genruntimeconfig.cache
+C:\Users\kotin\source\repos\Crazy\Crazy\obj\Debug\net8.0\ref\Crazy.dll

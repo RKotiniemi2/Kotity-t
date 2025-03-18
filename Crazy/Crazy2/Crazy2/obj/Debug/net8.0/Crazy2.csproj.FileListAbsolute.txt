@@ -1,0 +1,14 @@
+D:\Vscode22\Crazy\Crazy2\Crazy2\obj\Debug\net8.0\Crazy2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vscode22\Crazy\Crazy2\Crazy2\obj\Debug\net8.0\Crazy2.AssemblyInfoInputs.cache
+D:\Vscode22\Crazy\Crazy2\Crazy2\obj\Debug\net8.0\Crazy2.AssemblyInfo.cs
+D:\Vscode22\Crazy\Crazy2\Crazy2\obj\Debug\net8.0\Crazy2.csproj.CoreCompileInputs.cache
+D:\Vscode22\Crazy\Crazy2\Crazy2\bin\Debug\net8.0\Crazy2.exe
+D:\Vscode22\Crazy\Crazy2\Crazy2\bin\Debug\net8.0\Crazy2.deps.json
+D:\Vscode22\Crazy\Crazy2\Crazy2\bin\Debug\net8.0\Crazy2.runtimeconfig.json
+D:\Vscode22\Crazy\Crazy2\Crazy2\bin\Debug\net8.0\Crazy2.dll
+D:\Vscode22\Crazy\Crazy2\Crazy2\bin\Debug\net8.0\Crazy2.pdb
+D:\Vscode22\Crazy\Crazy2\Crazy2\obj\Debug\net8.0\Crazy2.dll
+D:\Vscode22\Crazy\Crazy2\Crazy2\obj\Debug\net8.0\refint\Crazy2.dll
+D:\Vscode22\Crazy\Crazy2\Crazy2\obj\Debug\net8.0\Crazy2.pdb
+D:\Vscode22\Crazy\Crazy2\Crazy2\obj\Debug\net8.0\Crazy2.genruntimeconfig.cache
+D:\Vscode22\Crazy\Crazy2\Crazy2\obj\Debug\net8.0\ref\Crazy2.dll
