@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vscode22\\Viaton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|d:\\vscode22\\viaton\\viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|solutionrelative:viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|d:\\vscode22\\viaton\\viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|solutionrelative:viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs",
+              "RelativeDocumentMoniker": "Viaton\\Form1.cs",
+              "ToolTip": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs",
+              "RelativeToolTip": "Viaton\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:05:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs",
+              "RelativeDocumentMoniker": "Viaton\\Form1.cs",
+              "ToolTip": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs [Design]",
+              "RelativeToolTip": "Viaton\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:04:20.231Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
