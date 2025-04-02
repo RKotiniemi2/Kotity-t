@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "/BIxYhfnij8=",
   "success": true,
   "projectFilePath": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Viaton.csproj",
+=======
+  "dgSpecHash": "AWw6poNl8pA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr302602\\source\\repos\\Gradia-Ohjelmistokehitys-2023\\Kotity-t\\Viaton\\Viaton\\Viaton.csproj",
+>>>>>>> 85d4985f823ac66771fd982b4e0d79741fd380f8
   "expectedPackageFiles": [],
   "logs": []
 }

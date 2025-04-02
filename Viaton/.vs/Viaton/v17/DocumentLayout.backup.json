@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Vscode22\\Kotity-t\\Viaton\\",
   "Documents": [
     {
@@ -8,6 +9,16 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|D:\\Vscode22\\Kotity-t\\Viaton\\viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+  "WorkspaceRootPath": "C:\\Users\\gr302602\\source\\repos\\Gradia-Ohjelmistokehitys-2023\\Kotity-t\\Viaton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|c:\\users\\gr302602\\source\\repos\\gradia-ohjelmistokehitys-2023\\kotity-t\\viaton\\viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|solutionrelative:viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|C:\\Users\\gr302602\\source\\repos\\Gradia-Ohjelmistokehitys-2023\\Kotity-t\\Viaton\\viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> 85d4985f823ac66771fd982b4e0d79741fd380f8
       "RelativeMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|solutionrelative:viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,19 +29,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Form1.cs",
               "RelativeDocumentMoniker": "Viaton\\Form1.cs",
               "ToolTip": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Form1.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\gr302602\\source\\repos\\Gradia-Ohjelmistokehitys-2023\\Kotity-t\\Viaton\\Viaton\\Form1.cs",
+              "RelativeDocumentMoniker": "Viaton\\Form1.cs",
+              "ToolTip": "C:\\Users\\gr302602\\source\\repos\\Gradia-Ohjelmistokehitys-2023\\Kotity-t\\Viaton\\Viaton\\Form1.cs",
+>>>>>>> 85d4985f823ac66771fd982b4e0d79741fd380f8
               "RelativeToolTip": "Viaton\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,10 +62,16 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Form1.cs",
               "RelativeDocumentMoniker": "Viaton\\Form1.cs",
               "ToolTip": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs [Design]",
               "RelativeToolTip": "..\\..\\Viaton\\Viaton\\Form1.cs [Design]",
+=======
+              "DocumentMoniker": "C:\\Users\\gr302602\\source\\repos\\Gradia-Ohjelmistokehitys-2023\\Kotity-t\\Viaton\\Viaton\\Form1.cs",
+              "RelativeDocumentMoniker": "Viaton\\Form1.cs",
+              "ToolTip": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs [Design]",
+>>>>>>> 85d4985f823ac66771fd982b4e0d79741fd380f8
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T13:04:20.231Z"
             }
