@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Vscode22\\Viaton\\",
+  "WorkspaceRootPath": "D:\\Vscode22\\Kotity-t\\Viaton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|d:\\vscode22\\viaton\\viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|d:\\vscode22\\kotity-t\\viaton\\viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|solutionrelative:viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|d:\\vscode22\\viaton\\viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|D:\\Vscode22\\Kotity-t\\Viaton\\viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EF7DC3F2-A101-476E-8389-7ECB89BAE85F}|Viaton\\Viaton.csproj|solutionrelative:viaton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs",
+              "DocumentMoniker": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Form1.cs",
               "RelativeDocumentMoniker": "Viaton\\Form1.cs",
-              "ToolTip": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs",
+              "ToolTip": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Form1.cs",
               "RelativeToolTip": "Viaton\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,13 +41,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs",
+              "DocumentMoniker": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Form1.cs",
               "RelativeDocumentMoniker": "Viaton\\Form1.cs",
               "ToolTip": "D:\\Vscode22\\Viaton\\Viaton\\Form1.cs [Design]",
-              "RelativeToolTip": "Viaton\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Viaton\\Viaton\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T13:04:20.231Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T13:04:20.231Z"
             }
           ]
         }

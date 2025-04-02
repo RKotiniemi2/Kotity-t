@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Viaton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1228d3c9980b9e8e76e273308e34fbaf196f7a35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Viaton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Viaton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
