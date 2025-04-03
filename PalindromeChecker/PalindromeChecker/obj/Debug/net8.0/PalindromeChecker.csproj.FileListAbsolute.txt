@@ -1,0 +1,15 @@
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.exe
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.deps.json
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.runtimeconfig.json
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.dll
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.pdb
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.AssemblyInfo.cs
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.sourcelink.json
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.dll
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\refint\PalindromeChecker.dll
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.pdb
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.genruntimeconfig.cache
+C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\PalindromeChecker\PalindromeChecker\obj\Debug\net8.0\ref\PalindromeChecker.dll
