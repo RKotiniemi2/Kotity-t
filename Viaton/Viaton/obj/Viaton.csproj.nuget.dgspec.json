@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Viaton.csproj": {}
+  },
+  "projects": {
+    "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Viaton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Viaton.csproj",
+        "projectName": "Viaton",
+        "projectPath": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\Viaton.csproj",
+        "packagesPath": "C:\\Users\\kotin\\.nuget\\packages\\",
+        "outputPath": "D:\\Vscode22\\Kotity-t\\Viaton\\Viaton\\obj\\",
+=======
     "C:\\Users\\gr302602\\source\\repos\\Gradia-Ohjelmistokehitys-2023\\Kotity-t\\Viaton\\Viaton\\Viaton.csproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "C:\\Users\\gr302602\\source\\repos\\Gradia-Ohjelmistokehitys-2023\\Kotity-t\\Viaton\\Viaton\\Viaton.csproj",
         "packagesPath": "C:\\Users\\gr302602\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\gr302602\\source\\repos\\Gradia-Ohjelmistokehitys-2023\\Kotity-t\\Viaton\\Viaton\\obj\\",
+>>>>>>> 85d4985f823ac66771fd982b4e0d79741fd380f8
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

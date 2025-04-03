@@ -14,7 +14,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Viaton
+<<<<<<< HEAD
+build_property.ProjectDir = D:\Vscode22\Kotity-t\Viaton\Viaton\
+=======
 build_property.ProjectDir = C:\Users\gr302602\source\repos\Gradia-Ohjelmistokehitys-2023\Kotity-t\Viaton\Viaton\
+>>>>>>> 85d4985f823ac66771fd982b4e0d79741fd380f8
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
